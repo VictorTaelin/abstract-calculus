@@ -1,1 +1,1 @@
-Renamed to [Symmetric Interaction Calculus](github.com/maiavictor/symmetric-interaction-calculus).
+Renamed to [Symmetric Interaction Calculus](https://github.com/maiavictor/symmetric-interaction-calculus).
